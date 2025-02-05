@@ -58,6 +58,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vilashkachare19&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vilashkachare19&" alt="vilashkachare19" />
-</p>
