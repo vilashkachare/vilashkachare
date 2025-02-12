@@ -2,19 +2,19 @@
 <h3 align="center">Frontend Developer | Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vilashkachare19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vilashkachare&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vilashkachare19" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vilashkachare" alt="GitHub Trophies" />
   </a>
 </p>
 
 ## 🚀 About Me
 - 🔭 I’m currently working on a Full-stack project: [LivMedly](https://github.com/Vilashkachare19/)
 - 🌱 I’m currently learning **MERN stack**
-- 👨‍💻 All of my projects are available at: [Portfolio](https://vilashkachare19.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at: [Portfolio](https://vilashkachare.github.io/portfolio/)
 - 📫 How to reach me: **vilashkachare@gmail.com**
 - 📄 Check out my resume: [Resume Link](https://drive.google.com/file/d/1cKdhdzuxaxRbDMlyCRq7XCqauN1eiBWR/view?usp=drive_link)
 - ⚡ Fun fact: **I love making and implementing projects & solving errors!**
