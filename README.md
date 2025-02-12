@@ -12,11 +12,11 @@
 </p>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on a Full-stack project: [LivMedly](https://github.com/Vilashkachare19/)
+- 🔭 I’m currently working on a Full-stack project: [LivMedly](https://github.com/vilashkachare/)
 - 🌱 I’m currently learning **MERN stack**
 - 👨‍💻 All of my projects are available at: [Portfolio](https://vilashkachare.github.io/portfolio/)
 - 📫 How to reach me: **vilashkachare@gmail.com**
-- 📄 Check out my resume: [Resume Link](https://drive.google.com/file/d/1cKdhdzuxaxRbDMlyCRq7XCqauN1eiBWR/view?usp=drive_link)
+- 📄 Check out my resume: [Resume Link]([https://drive.google.com/file/d/1cKdhdzuxaxRbDMlyCRq7XCqauN1eiBWR/view?usp=drive_link](https://drive.google.com/file/d/1Yddsh_mn3VsIr4yq-S6JZeUdm8M3mZd9/view?usp=drive_link))
 - ⚡ Fun fact: **I love making and implementing projects & solving errors!**
 
 ## 🔗 Connect with me:
