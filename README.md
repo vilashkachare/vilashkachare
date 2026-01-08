@@ -29,7 +29,8 @@
 </p>
 
 ---
-##🌐 Visit My Portfolio
+## 🌐 Visit My Portfolio
+
 <p align="center"> <a href="https://vilashkachare.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Button"/> </a> </p> <p align="center"> 🔗 <strong><a href="https://vilashkachare.vercel.app" target="_blank">https://vilashkachare.vercel.app</a></strong> </p>
 
 ---
