@@ -5,11 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=vilashkachare&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vilashkachare" alt="GitHub Trophies" />
-  </a> -->
+
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vilashkachare&theme=onedark&no-frame=true&row=1" />
 </p>
+
+
 
 ## 🚀 About Me
 - 🔭 I’m currently working on a Full-stack project: [LivMedly](https://github.com/vilashkachare/)
@@ -31,6 +32,10 @@
 
 ## 🛠 Languages and Tools:
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilashkachare&layout=compact&langs_count=8" />
+</p>
+
+<p align="center">
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
@@ -51,8 +56,9 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vilashkachare&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vilashkachare&show_icons=true&theme=tokyonight" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vilashkachare&show_icons=true&locale=en" alt="GitHub Stats" />
