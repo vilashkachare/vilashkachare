@@ -5,15 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=vilashkachare&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vilashkachare&theme=onedark&no-frame=true&row=1" alt="github trophies" />
-</p>
-
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on a **Full-Stack Project**: **[LivMedly](https://github.com/vilashkachare)**
 - 🌱 Learning and building with the **MERN Stack**
 - 👨‍💻 Check out my projects: **[Portfolio Website](https://vilashkachare.github.io/portfolio/)**
 - 📫 Reach me at: **vilashkachare@gmail.com**
@@ -34,15 +29,10 @@
 </p>
 
 ---
-
-## 🧠 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilashkachare&layout=compact&langs_count=8&hide_border=true" alt="top languages" />
-</p>
+🌐 Visit My Portfolio
+<p align="center"> <a href="https://vilashkachare.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Button"/> </a> </p> <p align="center"> 🔗 <strong><a href="https://vilashkachare.vercel.app" target="_blank">https://vilashkachare.vercel.app</a></strong> </p>
 
 ---
-
 ## 🛠️ Languages & Tools
 
 <p align="center">
@@ -60,15 +50,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vilashkachare&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
-</p>
-
 ---
 
 ⭐ **Feel free to check out my repositories and drop a star if you like my work!**
