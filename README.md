@@ -12,7 +12,7 @@
 - 🌱 Learning and building with the **MERN Stack**
 - 👨‍💻 Check out my projects: **[Portfolio Website](https://vilashkachare.vercel.app/)**
 - 📫 Reach me at: **vilashkachare@gmail.com**
-- 📄 Resume: **[View Resume](https://drive.google.com/file/d/1jz90PR8IobmlZQrEBPi3goNEeZG6ixMy/view?usp=drive_link)**
+- 📄 Resume: **[View Resume](https://drive.google.com/file/d/1YwnUqIGGRsn-_30j-u9ha_kcn7uL2UWQ/view?usp=drive_link)**
 - ⚡ Fun fact: *I love building projects and debugging bugs more than creating them 😄*
 
 ---
