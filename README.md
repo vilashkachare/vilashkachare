@@ -10,9 +10,9 @@
 ## 🚀 About Me
 
 - 🌱 Learning and building with the **MERN Stack**
-- 👨‍💻 Check out my projects: **[Portfolio Website](https://vilashkachare.github.io/portfolio/)**
+- 👨‍💻 Check out my projects: **[Portfolio Website](https://vilashkachare.vercel.app/)**
 - 📫 Reach me at: **vilashkachare@gmail.com**
-- 📄 Resume: **[View Resume](https://drive.google.com/file/d/1Yddsh_mn3VsIr4yq-S6JZeUdm8M3mZd9/view)**
+- 📄 Resume: **[View Resume](https://drive.google.com/file/d/1TnzGEtYnRB7QiTYPkm80a-sm5yIt5Krv/view?usp=drive_link)**
 - ⚡ Fun fact: *I love building projects and debugging bugs more than creating them 😄*
 
 ---
