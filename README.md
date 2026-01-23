@@ -59,4 +59,4 @@
 </p>
 ---
 
-⭐ **Feel free to check out my repositories and drop a star if you like my work!**
+⭐ **Feel free to check out my repositories and drop a star if you like my work!** *
