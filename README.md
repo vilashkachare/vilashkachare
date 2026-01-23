@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vilash Kachare</h1>
-<h3 align="center">Frontend Developer | Computer Science Engineering Student</h3>
+<h3 align="center">Frontend Developer | Learning Fullstack Development| Computer Science Engineering Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vilashkachare&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
