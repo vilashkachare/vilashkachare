@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Learning and building with the **MERN Stack**
+- 🌱 Learning and building with the **FullStack Developments**
 - 🌱 Also learning to make websites using ASP.net, Angular
 - 🌱 Knows Database Techstacks, about Quality Assurance of products etc
 - 👨‍💻 Check out my projects: **[Portfolio Website](https://vilashkachare.vercel.app/)**
