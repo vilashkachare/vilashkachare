@@ -13,7 +13,7 @@
 - 🌱 Learning and building with the **FullStack Developments**
 - 🌱 Also learning to make websites using ASP.net, Angular
 - 🌱 Knows Database Techstacks, about Quality Assurance of products etc
-- 👨‍💻 Check out my projects: **[Portfolio Website](https://vilashkachare.vercel.app/)**
+- 👨‍💻 Check out my projects at : **[Portfolio Website](https://vilashkachare.vercel.app/)**
 - 📫 Reach me at: **vilashkachare@gmail.com**
 - 📄 Resume: **[View Resume](https://drive.google.com/file/d/1YwnUqIGGRsn-_30j-u9ha_kcn7uL2UWQ/view?usp=drive_link)**
 - ⚡ Fun fact: *I love building projects and debugging bugs more than creating them 😄*
@@ -28,6 +28,9 @@
   </a>
   <a href="https://instagram.com/vilashkachare19" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+    <a href="https://vilashkachare.vercel.app/#contact" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/contact.svg" height="30" width="40" />
   </a>
 </p>
 
