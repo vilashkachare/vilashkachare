@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vilash Kachare</h1>
+<h1 align="center">Helloo 👋, I'm Vilash Kachare</h1>
+<h2 align="center"> Welcome to my GitHub account</h2>
 <h3 align="center">Frontend Developer | Learning Fullstack Development| Computer Science Engineering Student</h3>
 
 <p align="center">
