@@ -12,7 +12,7 @@
 
 - 🌱 Learning and building with the **FullStack Developments**
 - 🌱 Also learning to make websites using ASP.net, Angular
-- 🌱 Knows Database Techstacks, about Quality Assurance of products etc
+- 🌱 Knows Database Techstacks, about Quality Assurance of products,learning new stuffs etc
 - 👨‍💻 Check out my projects at : **[Portfolio Website](https://vilashkachare.vercel.app/)**
 - 📫 Reach me at: **vilashkachare@gmail.com**
 - 📄 Resume: **[View Resume](https://drive.google.com/file/d/1YwnUqIGGRsn-_30j-u9ha_kcn7uL2UWQ/view?usp=drive_link)**
