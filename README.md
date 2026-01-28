@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - 🌱 Learning and building with the **FullStack Developments**
-- 🌱 Also learning to make websites using ASP.net, Angular
+- 🌱 Also learning to make websites using ASP.net, Angular , SQL , php, API's
 - 🌱 Knows Database Techstacks, about Quality Assurance of products,learning new stuffs etc
 - 👨‍💻 Check out my projects at : **[Portfolio Website](https://vilashkachare.vercel.app/)**
 - 📫 Reach me at: **vilashkachare@gmail.com**
